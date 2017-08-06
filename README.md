@@ -8,7 +8,7 @@ when you want to store some small ,insensitive and permanent information in your
 
 ## Installation
 
-1. `npm install react-native-user-defaults`
+1. `npm install react-native-user-defaults --save`
 2. open xcode, right click on `Libraries`, then click `Add Files...`, select `node_modules -> react-native-user-defaults -> RCTUserDefaults.xcodeproj`
 3. still in xcode, select main project file, then `Build Phases -> Link Binary... -> Add items -> libRCTUserDefaults.a`
 
